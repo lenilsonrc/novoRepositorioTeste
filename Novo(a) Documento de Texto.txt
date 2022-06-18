@@ -1,1 +1,2 @@
-oa estou testando o git na minha maquina!!
+Ola estou testando o git na minha maquina!!
+Estou praticando o git e git hub!!
