@@ -4,3 +4,4 @@ acrescentando nova linha no repositorio.
 ta clareando cada vez mais.
 utilizar o git tem que ter muita pratica.
 e procurar sempre estar melhorando.
+agora ta ficabdo mais claro a utilização do git hub.
